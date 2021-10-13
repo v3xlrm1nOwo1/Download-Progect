@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>icon/browser.png</file>
+    <file>icon/check.png</file>
+    <file>youtube.png</file>
+    <file>icon/download.png</file>
+    <file>icon/youtube.png</file>
+    <file>icon/iconApp.png</file>
+  </qresource>
+</RCC>
