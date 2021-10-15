@@ -223,6 +223,7 @@ class MainApp(QMainWindow, ui):
                 data = f"{best.title} {best.extension} {best.quality} {humanize.naturalsize(best.get_filesize())}"
                 print(f"{count}-:  {data} Link:  {vide}")
                 self.comboBox_2.addItem(f"{count}- {data}")
+                save = self.lineEdit_6.text()
                 count += 1
 
     #Download Playlist
